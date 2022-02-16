@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Rick and Morty React.js App
+## Some screenshots
+![image](https://user-images.githubusercontent.com/48603501/154320088-27e501ce-5529-4f1d-afc0-0640bdb96bcd.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
